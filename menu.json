@@ -1,0 +1,44 @@
+[{
+  "id":1,
+  "type":1,
+  "name":"Чизбургер",
+  "price":55.50,
+  "img":"img/cheezzz.jpg",
+  "rolls":2,
+  "bacon":1
+},
+{
+  "id":2,
+  "type":1,
+  "name":"Биг мак",
+  "price":98.70,
+  "img":"img/BigMac.webp",
+  "rolls":2,
+  "bacon":1
+},
+{
+  "id":3,
+  "type":1,
+  "name":"Биг тейсти",
+  "price":75.35,
+  "img":"img/testy.jpg",
+  "rolls":2,
+  "bacon":1
+},
+{
+  "id":4,
+  "type":2,
+  "name":"Картошка Фри",
+  "price":44.20,
+  "img":"img/free.webp",
+  "size": null
+},
+{
+  "id":5,
+  "type":2,
+  "name":"Мак Флури",
+  "price":38.20,
+  "img":"img/MacFlury.png",
+  "size": null
+}
+]
